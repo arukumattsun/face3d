@@ -4,4 +4,5 @@ from __future__ import print_function
 
 from .. import mesh
 from .morphabel_model import MorphabelModel
+from .coarse_morphabel_model import CoarseMorphabelModel
 from . import load
